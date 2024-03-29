@@ -1,7 +1,7 @@
 package rpicam
 
 import (
-	clitools "go-pi-camera/cli-tools"
+	clitools "github.com/daniel38192/go-pi-camera/cli-tools"
 )
 
 type RpiCamera struct {
